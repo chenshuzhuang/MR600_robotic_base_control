@@ -55,12 +55,7 @@ roslaunch robuster_driver driver.launch
 * **wheel_bias**：轴间距
 * **rpm_factor**：RPM 因子. 因电机方案选择引入的参数,用户无需修改.
 
-MR 系列产品车轮半径及轴间距参数：
-|  | Wheel Radius | Bias |
-| --- | ------ | ------ |
-| MR500  | 0.102 | 0.375 |   
-| MR1000 | 0.154 | 0.572 |
-| MR2000 | 0.125 | 0.673 |
+
 
 
 ## 键盘控制  
