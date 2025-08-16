@@ -1,8 +1,3 @@
-# robuster_driver
-robuster 系列产品底盘 ROS 驱动
-
-## 目录说明
-
 * script：功能脚本
   * robuster_teleop_key.py：键盘控制脚本
 * launch：ros launch 文件
